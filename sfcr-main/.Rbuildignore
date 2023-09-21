@@ -1,0 +1,13 @@
+^sfcr\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.travis\.yml$
+^vignettes/articles$
+cran-comments.md
+^CRAN-RELEASE$
+^man/figures/card.png
+^\.github$
